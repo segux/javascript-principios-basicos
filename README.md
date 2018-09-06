@@ -1,4 +1,4 @@
-# javascript-principios-basicos 2018
+# javascript-es6-principios-basicos 2018
 Repositorio de la serie en Youtube de Javascript aprendiendo lo basico
 
 ## Contenido
@@ -9,3 +9,8 @@ Repositorio de la serie en Youtube de Javascript aprendiendo lo basico
 5. Strings(Cadenas de texto) y el api de javascript para usarlos
 6. Colecciones(Arrays) y el api de javascript para usarlos
 7. Objetos(objects) y el api de javascript para usarlos
+8. Explicación de las diferentes formas de ver una función en javascript y sus significados
+9. Diferencia entre función normal y función anonima
+10. Las arrow functions y como nos facilitan la vida
+11. Condicionales y sus diferentes variables
+
